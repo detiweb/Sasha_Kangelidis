@@ -1,0 +1,28 @@
+body{
+	background: url(Фон.jpg);
+}
+H1{
+	text-align: center;
+	text-decoration: underline;
+}
+a{
+	text-align: right;
+	border: 3px solid blue;
+	padding: 2px;
+	text-decoration: none;
+}
+img{
+	border: 3px solid red;
+	width: 650px;
+	margin-left: 50%;
+}
+
+p{
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px
+}
+div{
+	background: red;
+	height: 580px;
+}
+
