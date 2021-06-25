@@ -67,6 +67,49 @@ body{
 .a5:hover{
 	color: grey;
 }
+h2{
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+	font-size: 40px;
+}
+.car{
+	padding:6px;
+}
+.car:hover{
+	border: 6px solid white;
+	padding:0;
+}
+.imgcar{
+	width: 650px;
+	height: 500px;
+	margin-left: 50px;
+}
+.imgcar1{
+	margin-left: 50px;
+	width: 780px;
+	height: 500px;
+}
+h3{
+	color: white;
+	display: inline-block;
+	font-size: 25px;
+}
+p{
+	color: white;
+	display: inline-block;
+	font-size: 20px;
+}
+.buy{
+	font-size: 25px;
+	margin-left: 100px;
+	text-decoration: none;
+	border: 3px solid black;
+	background: lightgrey;
+	color: black;
+	border-radius: 3px;
+	padding: 2px;
+}
 footer{
 	border-color: black;
 }
@@ -85,7 +128,7 @@ footer{
 	text-decoration: none;
 	font-size: 30px;
 	margin-left: 100px;
-	margin-top: 300px;
+	margin-top: 400px;
 }
 .a8:hover{
 	color: grey;
@@ -118,12 +161,4 @@ footer{
 }
 .a11:hover{
 	color: grey;
-}
-.p3{
-	color: white;
-	font-size: 25px;
-}
-.p2{
-	color: white;
-	font-size: 20px;
 }
